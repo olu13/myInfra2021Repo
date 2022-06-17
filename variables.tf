@@ -15,7 +15,7 @@ variable "instance_type" {
 
 variable "security_group" { 
     description = "Name of security group" 
-    default     = "launch-wizard-112" 
+    default     = "security_sonar_group_2022" 
 }
 
 variable "tag_name" { 
